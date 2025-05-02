@@ -1,0 +1,54 @@
+{
+    "dados": [
+        {
+            "idade": 25,
+            "salario": 3500,
+            "experiencia": 2
+        },
+        {
+            "idade": 30,
+            "salario": 4200,
+            "experiencia": 5
+        },
+        {
+            "idade": 35,
+            "salario": 5100,
+            "experiencia": 8
+        },
+        {
+            "idade": 28,
+            "salario": 3800,
+            "experiencia": 3
+        },
+        {
+            "idade": 40,
+            "salario": 6000,
+            "experiencia": 12
+        },
+        {
+            "idade": 32,
+            "salario": 4500,
+            "experiencia": 6
+        },
+        {
+            "idade": 45,
+            "salario": 7000,
+            "experiencia": 15
+        },
+        {
+            "idade": 27,
+            "salario": 3600,
+            "experiencia": 2
+        },
+        {
+            "idade": 38,
+            "salario": 5500,
+            "experiencia": 10
+        },
+        {
+            "idade": 33,
+            "salario": 4800,
+            "experiencia": 7
+        }
+    ]
+}
