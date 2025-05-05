@@ -1,31 +1,31 @@
-# Plataforma de Análise de Dados
+# Data Analysis Platform
 
-Uma aplicação web simples e elegante para análise de dados, construída com HTML, Tailwind CSS e JavaScript puro.
+A simple and elegant web application for data analysis, built with HTML, Tailwind CSS, and vanilla JavaScript.
 
-## Funcionalidades
+## Feaures
 
-- Upload de arquivos CSV e JSON via drag-and-drop ou seleção manual
-- Análise estatística automática (média, mediana, mínimo, máximo, desvio padrão)
-- Visualização de dados com gráficos interativos
-- Suporte para múltiplos tipos de gráficos (barras, linha, pizza)
-- Interface responsiva e moderna
-- Feedback visual durante o processamento
+- Upload CSV and JSON files via drag-and-drop or manual selection
+- Automatic statistical analysis (mean, median, min, max, standard deviation)
+- Data visualization with interactive charts
+- Support for multiple chart types (bar, line, pie)
+- Responsive and modern interface
+- Visual feedback during processingo
 
-## Como Usar
+## How to Use
 
-1. Acesse a aplicação através do navegador
-2. Arraste e solte um arquivo CSV ou JSON na área de upload, ou clique para selecionar
-3. Os dados serão processados automaticamente
-4. Visualize as estatísticas e gráficos gerados
-5. Alterne entre diferentes tipos de gráficos usando os botões disponíveis
-6. Selecione diferentes colunas numéricas para análise
+1. Access the application through your browser
+2. Drag and drop a CSV or JSON file into the upload area, or click to select
+3. The data will be processed automatically
+4. View the generated statistics and charts
+5. Switch between different chart types using the available buttons
+6. Select different numeric columns for analysis
 
-## Formato dos Arquivos
+## File Format
 
 ### CSV
-- Deve conter cabeçalho na primeira linha
-- Valores separados por vírgula
-- Exemplo:
+- Must contain a header in the first row
+- Values separated by commas
+- Example:
 ```csv
 idade,salario,experiencia
 25,3500,2
@@ -34,8 +34,8 @@ idade,salario,experiencia
 ```
 
 ### JSON
-- Pode ser um array de objetos ou ter uma estrutura aninhada
-- Exemplo:
+- Can be an array of objects or a nested sructure
+- Example:
 ```json
 {
     "dados": [
@@ -53,11 +53,11 @@ idade,salario,experiencia
 }
 ```
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML5
 - Tailwind CSS
-- JavaScript (ES6+)
+- JavaScript 
 - Chart.js para visualizações
 - Font Awesome para ícones
 - Google Fonts (Inter)
